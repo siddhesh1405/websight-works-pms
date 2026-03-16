@@ -1,0 +1,9 @@
+.git
+.gitignore
+.vscode
+target
+pms-frontend
+node_modules
+*.log
+README.md
+GO_LIVE_CHECKLIST.md
